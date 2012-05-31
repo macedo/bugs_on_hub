@@ -1,6 +1,6 @@
 require 'octokit'
 
-module Bughub
+module BugsOnHub
   class << self
     def configure(&block)
       yield Config

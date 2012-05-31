@@ -1,4 +1,4 @@
-module Bughub
+module BugsOnHub
   module Version
     MAJOR  = '0'
     MINOR  = '1'

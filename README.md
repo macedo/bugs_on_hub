@@ -1,4 +1,4 @@
-# Bughub
+# BugsOnHub
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'bughub'
+    gem 'bugs_on_hub'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bughub
+    $ gem install bugs_on_hub
 
 ## Usage
 
